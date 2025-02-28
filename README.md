@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavierEchaide
 - 👀 I’m interested in GameDevelopment
-- 🌱 I’m currently learning C# programming and Unity usement
+- 🌱 I’m currently learning Godot programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
